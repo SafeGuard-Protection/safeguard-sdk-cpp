@@ -4,4 +4,4 @@ This project is licensed under the Anti-Skid License. You are free to use the co
 
 ## Download
 
-Click (here)[https://github.com/SafeGuard-Protection/safeguard-sdk-cpp/releases/download/release/safeguard.zip]
+Click [here](https://github.com/SafeGuard-Protection/safeguard-sdk-cpp/releases/download/release/safeguard.zip)
